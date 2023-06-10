@@ -3,6 +3,12 @@ layout: about
 title: About
 ---
 
-## About
+## Welcome to my journey launching into cyber-security
 
-Hi, nice to meet you.
+## Why
+
+##How
+
+#What
+
+#Contact
